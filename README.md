@@ -34,7 +34,7 @@ I am CS Student live in South Korea.
 
 ### 🆗 Ask me about `JavaScript`, `PS`.
 
-I'd like to solve Algorithm Problems. Here's my [`solved.ac` repo](https://github.com/johannblue/boj-solution).
+I like solving Algorithm Problems. Here's my [`solved.ac` repo](https://github.com/johannblue/boj-solution).
 
 ### [Solved.ac](https://solved.ac) Profile
 
