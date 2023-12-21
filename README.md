@@ -30,11 +30,11 @@ I am CS Student live in South Korea.
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on [My Github Markdown Blog](https://johannblue.github.io/markdown-blog), which is made with `Next.js`.
+- 🔭 I’m currently working on [My Github Markdown Blog](https://chayhan.github.io/markdown-blog), which is made with `Next.js`.
 
 ### 🆗 Ask me about `JavaScript`, `PS`.
 
-I like solving Algorithm Problems. Here's my [`solved.ac` repo](https://github.com/johannblue/boj-solution).
+I like solving Algorithm Problems. Here's my [`solved.ac` repo](https://github.com/chayhan/boj-solution).
 
 ### [Solved.ac](https://solved.ac) Profile
 
