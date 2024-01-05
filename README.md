@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 I am CS Student live in South Korea.
 
+## To people who are thinking of why I added you
+
+I'd like to discuss about **Frontend**. But I have no connection with people who do such things.
+
+So I added you, and feel free to add me, too! I'd want to discuss with many people so that I could be a nice muscular developer, so do you.
+
 ### 💬 Things I can use
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
