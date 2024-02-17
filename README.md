@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I am CS Student live in South Korea.
 
-[![chayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayhan&theme=synthwave)](https://github.com/chayhan/markdown-blog)
+[![chayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayhan&theme=dark)](https://github.com/chayhan/markdown-blog)
 
 ### Things currently working on
-[![teinou-bot](https://github-readme-stats.vercel.app/api/pin/?username=han031121&repo=teinoubot&theme=synthwave)](https://github.com/han031121/teinoubot)
-[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=chayhan&repo=markdown-blog&theme=synthwave)](https://github.com/chayhan/markdown-blog)
+[![teinou-bot](https://github-readme-stats.vercel.app/api/pin/?username=han031121&repo=teinoubot&theme=dark)](https://github.com/han031121/teinoubot)
+[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=chayhan&repo=markdown-blog&theme=dark)](https://github.com/chayhan/markdown-blog)
 
 
 ### 💬 Ask me about
