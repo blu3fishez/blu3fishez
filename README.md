@@ -21,7 +21,7 @@ I am CS Student live in South Korea.
 
 ### Things currently working on
 [![Lumine](https://github-readme-stats.vercel.app/api/pin/?username=junhyung9985&repo=Lumine&theme=dark)](https://github.com/han031121/teinoubot)
-[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=chayhan&repo=markdown-blog&theme=dark)](https://github.com/chayhan/markdown-blog)
+[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=chayhan&repo=Postlog&theme=dark)](https://github.com/chayhan/markdown-blog)
 
 
 ### 💬 Ask me about
