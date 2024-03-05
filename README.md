@@ -20,8 +20,8 @@ I am CS Student live in South Korea.
 [![chayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayhan&theme=dark)](https://github.com/chayhan/markdown-blog)
 
 ### Things currently working on
-[![Lumine](https://github-readme-stats.vercel.app/api/pin/?username=junhyung9985&repo=Lumine&theme=dark)](https://github.com/han031121/teinoubot)
-[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=chayhan&repo=Postlog&theme=dark)](https://github.com/chayhan/markdown-blog)
+[![Lumine](https://github-readme-stats.vercel.app/api/pin/?username=junhyung9985&repo=Lumine&theme=dark)](https://github.com/junhyung9985/Lumine)
+[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=chayhan&repo=Postlog&theme=dark)](https://github.com/chayhan/Postlog)
 
 
 ### 💬 Ask me about
