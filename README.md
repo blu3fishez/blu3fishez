@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I am CS Student live in South Korea.
 
-[![chayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayhan&theme=dark)](https://github.com/chayhan/markdown-blog)
+[![blu3fishez's GitHub stats](https://github-readme-stats.vercel.app/api?username=blu3fishez&theme=dark)](https://github.com/blu3fishez/markdown-blog)
 
 ### Things currently working on
 [![Lumine](https://github-readme-stats.vercel.app/api/pin/?username=junhyung9985&repo=Lumine&theme=dark)](https://github.com/junhyung9985/Lumine)
-[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=chayhan&repo=Postlog&theme=dark)](https://github.com/chayhan/Postlog)
+[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=blu3fishez&repo=Postlog&theme=dark)](https://github.com/blu3fishez/Postlog)
 
 
 ### 💬 Ask me about
@@ -38,6 +38,6 @@ I am CS Student live in South Korea.
 
 ### Problem Solve
 
-I like solving Algorithm Problems. [(repo)](https://github.com/chayhan/boj-solution).
+I like solving Algorithm Problems. [(repo)](https://github.com/blu3fishez/boj-solution).
 
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez">
