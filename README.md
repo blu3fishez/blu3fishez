@@ -20,8 +20,13 @@ I am CS Student live in South Korea.
 [![blu3fishez's GitHub stats](https://github-readme-stats.vercel.app/api?username=blu3fishez&theme=dark)](https://github.com/blu3fishez/markdown-blog)
 
 ### Things currently working on
+
 [![Lumine](https://github-readme-stats.vercel.app/api/pin/?username=junhyung9985&repo=Lumine&theme=dark)](https://github.com/junhyung9985/Lumine)
 [![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=blu3fishez&repo=Postlog&theme=dark)](https://github.com/blu3fishez/Postlog)
+
+Below is an ongoing project in conjunction with university class.
+
+[![lnsqj123/CDPTeam7](https://github-readme-stats.vercel.app/api/pin/?username=lnsqj123&repo=CDPTeam7&theme=dark)](https://github.com/lnsqj123/CDPTeam7)
 
 
 ### 💬 Ask me about
