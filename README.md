@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 I am CS Student live in South Korea.
 
-[![blu3fishez's GitHub stats](https://github-readme-stats.vercel.app/api?username=blu3fishez&theme=dark)](https://github.com/blu3fishez/markdown-blog)
+[![blu3piece's GitHub stats](https://github-readme-stats.vercel.app/api?username=blu3piece&theme=dark)](https://github.com/blu3piece/markdown-blog)
 
 ### Things currently working on
 
 [![Lumine](https://github-readme-stats.vercel.app/api/pin/?username=junhyung9985&repo=Lumine&theme=dark)](https://github.com/junhyung9985/Lumine)
-[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=blu3fishez&repo=Postlog&theme=dark)](https://github.com/blu3fishez/Postlog)
+[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=blu3piece&repo=Postlog&theme=dark)](https://github.com/blu3piece/Postlog)
 
 Below is an ongoing project in conjunction with university class.
 
@@ -43,6 +43,6 @@ Below is an ongoing project in conjunction with university class.
 
 ### Problem Solve
 
-I like solving Algorithm Problems. [(repo)](https://github.com/blu3fishez/boj-solution).
+I like solving Algorithm Problems. [(repo)](https://github.com/blu3piece/boj-solution).
 
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez">
