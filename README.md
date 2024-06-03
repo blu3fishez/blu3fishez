@@ -26,7 +26,7 @@ I am CS Student live in South Korea.
 
 Below is an ongoing project in conjunction with university class.
 
-[![lnsqj123/CDPTeam7](https://github-readme-stats.vercel.app/api/pin/?username=lnsqj123&repo=CDPTeam7&theme=dark)](https://github.com/lnsqj123/CDPTeam7)
+[![CDPTeam7/CDPTeam7](https://github-readme-stats.vercel.app/api/pin/?username=CDPTeam7&repo=application-and-server&theme=dark)](https://github.com/CDPTeam7/application-and-server)
 
 
 ### 💬 Ask me about
