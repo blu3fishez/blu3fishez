@@ -28,13 +28,7 @@ I am CS Student live in South Korea.
 
 ### Things currently working on
 
-[![Lumine](https://github-readme-stats.vercel.app/api/pin/?username=junhyung9985&repo=Lumine&theme=dark)](https://github.com/junhyung9985/Lumine)
-[![markdown-blog](https://github-readme-stats.vercel.app/api/pin/?username=blu3piece&repo=Postlog&theme=dark)](https://github.com/blu3piece/Postlog)
-
-Below is an ongoing project in conjunction with university class.
-
-[![CDPTeam7/CDPTeam7](https://github-readme-stats.vercel.app/api/pin/?username=CDPTeam7&repo=application-and-server&theme=dark)](https://github.com/CDPTeam7/application-and-server)
-
+🌴 Currently on vacation!
 
 ### 💬 Ask me about
 
