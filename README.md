@@ -24,7 +24,7 @@ I am CS Student live in South Korea.
 |2021~2022 | Served and discharged from ROK Air Force Intelligence Information Systems Management Group|
 
 
-[![blu3piece's GitHub stats](https://github-readme-stats.vercel.app/api?username=blu3piece&theme=dark)](https://github.com/blu3piece/markdown-blog)
+[![blu3piece's GitHub stats](https://github-readme-stats.vercel.app/api?username=moozeh&theme=dark)
 
 ### Things currently working on
 
