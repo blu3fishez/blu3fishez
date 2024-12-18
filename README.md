@@ -21,7 +21,6 @@ I am CS Student live in South Korea.
 |:-|:---|
 |2019 ~| KNU CSE Undergraduate|
 |2024 | boostcamp web/mobile membership 9th|
-|2021~2022 | Served and discharged from ROK Air Force Intelligence Information Systems Management Group|
 
 
 ![blu3piece's GitHub stats](https://github-readme-stats.vercel.app/api?username=moozeh&theme=dark)
