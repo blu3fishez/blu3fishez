@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 💻 I like [solving](https://github.com/moozeh/leetcode-java) [Algorithm Problems](https://github.com/blu3piece/boj-solution).
   
 <a href="https://blog.moozeh.org">![blog](https://img.shields.io/badge/blog-active-green)</a>
+<img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" />
 
 </div>
 
