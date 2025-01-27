@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img alt="social-card" src="https://github.com/moozeh/blog/blob/main/website/static/img/social-card.png" />
+</div>
+
 <h3 align="center">🌃 I am a CSE student live in South Korea.</h3>
 
 <div align="center">
