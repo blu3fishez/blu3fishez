@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+🧗 I enjoy taking on new adventures and engaging in new forms of communication.
+
+🚴‍♂️ I like leading teams by adapting to their perspective and level.
+
 👥 I'm interested in open source activities.
 
 💻 I like [solving](https://github.com/moozeh/leetcode-java) [Algorithm Problems](https://github.com/moozeh/boj-solution).
