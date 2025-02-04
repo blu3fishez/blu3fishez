@@ -21,9 +21,11 @@ Here are some ideas to get you started:
   <img alt="social-card" src="https://raw.githubusercontent.com/moozeh/blog/refs/heads/main/assets/default-thumbnail.webp" />
 </div>
 
-<h3 align="center">🌃 I am a CSE student live in South Korea.</h3>
+---
 
-<div align="center">
+### 🌃 I am a CSE student live in South Korea.
+
+
 
 🧗 I enjoy taking on new adventures and engaging in new forms of communication.
 
@@ -36,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://blog.moozeh.org">![blog](https://img.shields.io/badge/blog-active-green)</a>
 <img src="https://komarev.com/ghpvc/?username=moozeh&label=Profile%20views&color=cbece4&style=flat" alt="moozeh" />
 
-</div>
+
 
 
 
