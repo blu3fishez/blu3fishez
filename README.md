@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div align="center">
   <img alt="social-card" src="https://raw.githubusercontent.com/moozeh/blog/refs/heads/main/assets/default-thumbnail.webp" />
 </div>
-
+-->
 ---
 
 ### 🌃 I am a CSE student live in South Korea.
