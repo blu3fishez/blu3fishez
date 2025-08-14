@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Greetings!</h1>
+## 👋 Greetings!
 
 <!--
 **johannblue/johannblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <img alt="social-card" src="https://raw.githubusercontent.com/moozeh/blog/refs/heads/main/assets/default-thumbnail.webp" />
 </div>
 -->
----
 
 ### 🌃 I am a CSE student live in South Korea.
 
