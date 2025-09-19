@@ -1,94 +1,47 @@
 
 
-## 👋 Greetings!
+## 🤓 Geekify your life
 
-<!--
-**johannblue/johannblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요 김블피입니다.
 
-Here are some ideas to get you started:
+남들과 다른 시각에 항상 흥미가 많으며, 지적 호기심을 채워가고 있습니다. <br>
+특히, 정답이 없는 주제에 관해 심도깊은 토론을 좋아합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+학교 생활 병행하면서 재밌는 것 이것저것 하고 있습니다. 게임도 좋아하고요.
 
-<!--
-<div align="center">
-  <img alt="social-card" src="https://raw.githubusercontent.com/moozeh/blog/refs/heads/main/assets/default-thumbnail.webp" />
-</div>
--->
+좋아하는 것 위주로 합니다. [블로그](https://blog.blu3fishez.org)도 많이 봐주세요.
 
-### 🌃 I am a CSE student live in South Korea.
-
-
-
-🧗 I enjoy taking on new adventures and engaging in new forms of communication.
-
-🚴‍♂️ I like leading teams by adapting to their perspective and level.
-
-👥 I'm interested in open source activities.
-
-💻 I like [solving](https://github.com/moozeh/leetcode-java) [Algorithm Problems](https://github.com/moozeh/boj-solution).
-  
-<a href="https://blog.moozeh.org">![blog](https://img.shields.io/badge/blog-active-green)</a>
-<img src="https://komarev.com/ghpvc/?username=moozeh&label=Profile%20views&color=cbece4&style=flat" alt="moozeh" />
-
-
-
-
-
-<!--
-- Although I haven't made any commits to public repositories yet, I'm eager to contribute!
-
-- Feel free to contact me! 😁
--->
 ## ✨ Activities
+
+### 2025
+
+- 2025.07 경북대학교 보안 동아리 KERT CTF 사이버 보안 경진대회 대상
+- 2025.07~2025.08 UCSD 산하 연구기관 Qualcomm Institute AI Entrepreneurship 프로그램 11기 
+- 2025.09~ 경북대학교 학술동아리 해달 2025년 하반기 교육운영진
+- 2025.09~ 경북대학교 학술동아리 해달 홈페이지 유지보수팀
 
 ### 2024
 
-- boostcamp web/mobile membership 9th
+- 네이버 부스트캠프 웹/모바일 멤버십 9기
 
 ### 2019 ~
 
 - KNU CSE Undergraduate
 
-## 🌃 I'm currently
+## 🌱 잘하고 '싶은' 것.
 
-- [Solving Leetcode in java](https://github.com/moozeh/leetcode-java)
-- [Learning Spring Boot / Spring Framework 3](https://github.com/moozeh/spring-boot-tutorial)
+제가 잘하는 건 크게 없다고 생각합니다.<br>
+누군가에게 앎이 저에겐 모름이 될 수 있기 때문입니다.
 
-## 💬 Ask me about
+그렇기 때문에 솔직히 말해, 아는 척 하는 걸 싫어합니다. 모르면 모른다고 말합니다.
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+  - [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#) 에 흥미가 많습니다.
+- [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+  - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+  - 단순 스프링 뿐만이 아니라 객체 지향 자체에 흥미도 많습니다.
+  - JVM 에도 관심이 있는데, 아직 공부하진 않았습니다.
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-## 🌱 Currently Interested at
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-## ⚡ Badges
+## ⚡ PS 실력
 
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez">
-
-![blu3piece's GitHub stats](https://github-readme-stats.vercel.app/api?username=moozeh&theme=dark)
