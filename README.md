@@ -40,6 +40,6 @@
   - 단순 스프링 뿐만이 아니라 객체 지향 자체에 흥미도 많습니다.
   - JVM 에도 관심이 있는데, 아직 공부하진 않았습니다.
 
-## ⚡ PS 실력
+## ⚡ solved
 
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez">
