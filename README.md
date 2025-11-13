@@ -29,4 +29,4 @@
 
 ## ⚡ solved
 
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez">
+<a href="https://solved.ac/profile/blu3fishez"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blu3fishez"></a>
